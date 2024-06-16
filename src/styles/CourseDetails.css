@@ -1,0 +1,40 @@
+.course-detail {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.course-detail h1,
+.course-detail h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.course-detail p {
+  margin: 10px 0;
+}
+
+.course-detail details {
+  margin: 20px 0;
+}
+
+.course-detail ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.course-detail li {
+  margin-bottom: 10px;
+}
+
+.home-link {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.home-link:hover {
+  text-decoration: underline;
+}

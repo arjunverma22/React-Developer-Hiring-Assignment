@@ -1,0 +1,149 @@
+{
+  "dummy": [],
+  "courses": [
+      {
+          "id": 1,
+          "likes": 10089001,
+          "name": "Introduction to React Native",
+          "instructor": "John Doe",
+          "description": "Learn the basics of React Native development and build your first mobile app.",
+          "enrollmentStatus": "Open",
+          "thumbnail": "https://via.placeholder.com/150",
+          "duration": "8 weeks",
+          "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+          "location": "Online",
+          "prerequisites": [
+              "Basic JavaScript knowledge",
+              "Familiarity with React"
+          ],
+          "syllabus": [
+              {
+                  "week": 1,
+                  "topic": "Introduction to React Native",
+                  "content": "Overview of React Native, setting up your development environment."
+              },
+              {
+                  "week": 2,
+                  "topic": "Building Your First App",
+                  "content": "Creating a simple mobile app using React Native components."
+              }
+          ],
+          "students": [
+              {
+                  "id": 101,
+                  "name": "Alice Johnson",
+                  "email": "alice@example.com",
+                  "progress": 60,
+                  "dueDate": "12/12/2025",
+                  "completed": true
+              },
+              {
+                  "id": 102,
+                  "name": "Bob Smith",
+                  "email": "bob@example.com",
+                  "progress": 40,
+                  "dueDate": "12/12/2025",
+                  "completed": false
+              }
+          ]
+      },
+      {
+          "id": 2,
+          "likes": 989765432,
+          "name": "Advanced JavaScript Concepts",
+          "instructor": "Jane Smith",
+          "description": "Deep dive into advanced JavaScript topics including closures, prototypes, and async programming.",
+          "enrollmentStatus": "Closed",
+          "thumbnail": "https://via.placeholder.com/150",
+          "duration": "6 weeks",
+          "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+          "location": "On-site",
+          "prerequisites": [
+              "Intermediate JavaScript knowledge"
+          ],
+          "syllabus": [
+              {
+                  "week": 1,
+                  "topic": "Closures and Scope",
+                  "content": "Understanding closure concepts and lexical scope."
+              },
+              {
+                  "week": 2,
+                  "topic": "Prototypes and Inheritance",
+                  "content": "Prototypal inheritance and object prototypes in JavaScript."
+              }
+          ],
+          "students": [
+              {
+                  "id": 103,
+                  "name": "Charlie Brown",
+                  "email": "charlie@example.com",
+                  "progress": 70,
+                  "dueDate": "12/12/2025",
+                  "completed": false
+              },
+              {
+                  "id": 104,
+                  "name": "Diana Johnson",
+                  "email": "diana@example.com",
+                  "progress": 40,
+                  "dueDate": "12/12/2025",
+                  "completed": false
+              }
+          ]
+      },
+      {
+          "id": 3,
+          "likes": 10001,
+          "name": "Web Development Bootcamp",
+          "instructor": "Mike Johnson",
+          "description": "Intensive bootcamp covering HTML, CSS, JavaScript, and building web applications.",
+          "enrollmentStatus": "In Progress",
+          "thumbnail": "https://via.placeholder.com/150",
+          "duration": "12 weeks",
+          "schedule": "Monday to Friday, 9:00 AM - 5:00 PM",
+          "location": "On-site",
+          "prerequisites": [
+              "Basic computer skills"
+          ],
+          "syllabus": [
+              {
+                  "week": 1,
+                  "topic": "Introduction to HTML",
+                  "content": "Structure of HTML, tags, and elements."
+              },
+              {
+                  "week": 2,
+                  "topic": "Styling with CSS",
+                  "content": "CSS selectors, properties, and stylesheets."
+              }
+          ],
+          "students": [
+              {
+                  "id": 105,
+                  "name": "Emily Brown",
+                  "email": "emily@example.com",
+                  "progress": 50,
+                  "dueDate": "12/12/2025",
+                  "completed": false
+              },
+              {
+                  "id": 101,
+                  "name": "Alice Johnson",
+                  "email": "alice@example.com",
+                  "progress": 60,
+                  "dueDate": "12/12/2025",
+                  "completed": false
+              },
+              {
+                  "id": 106,
+                  "name": "Fred Davis",
+                  "email": "fred@example.com",
+                  "progress": 90,
+                  "dueDate": "12/12/2025",
+                  "completed": false
+              }
+          ]
+      }
+  ]
+}
